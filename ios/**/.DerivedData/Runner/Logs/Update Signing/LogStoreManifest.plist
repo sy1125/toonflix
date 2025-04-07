@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>0B7027DA-BE5E-489E-A171-D8A16CAA5CB6</key>
+		<key>A7AE7FA2-B26B-4291-BCE8-B99D17AEBF33</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.ProvisioningLog</string>
 			<key>fileName</key>
-			<string>0B7027DA-BE5E-489E-A171-D8A16CAA5CB6.xcactivitylog</string>
+			<string>A7AE7FA2-B26B-4291-BCE8-B99D17AEBF33.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -34,49 +34,13 @@
 			<key>signature</key>
 			<string>Update Signing</string>
 			<key>timeStartedRecording</key>
-			<real>765451386.90412498</real>
+			<real>765686127.32036901</real>
 			<key>timeStoppedRecording</key>
-			<real>765451387.619838</real>
+			<real>765686127.32672799</real>
 			<key>title</key>
 			<string>Update Signing</string>
 			<key>uniqueIdentifier</key>
-			<string>0B7027DA-BE5E-489E-A171-D8A16CAA5CB6</string>
-		</dict>
-		<key>92E39BF3-A1B4-4A93-908F-3F49138CAA2C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.ProvisioningLog</string>
-			<key>fileName</key>
-			<string>92E39BF3-A1B4-4A93-908F-3F49138CAA2C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>signature</key>
-			<string>Update Signing</string>
-			<key>timeStartedRecording</key>
-			<real>765451477.70321703</real>
-			<key>timeStoppedRecording</key>
-			<real>765451477.70504498</real>
-			<key>title</key>
-			<string>Update Signing</string>
-			<key>uniqueIdentifier</key>
-			<string>92E39BF3-A1B4-4A93-908F-3F49138CAA2C</string>
+			<string>A7AE7FA2-B26B-4291-BCE8-B99D17AEBF33</string>
 		</dict>
 	</dict>
 </dict>

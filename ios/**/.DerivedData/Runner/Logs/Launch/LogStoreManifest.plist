@@ -6,18 +6,18 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>6F50E6EC-9DFC-4707-BA2A-B50D8956A8EA</key>
+		<key>6BA6B330-ECA1-4950-AB12-5DFCDD449110</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B99BECD5-DA01-4FE2-9088-865E971020AF</string>
+			<string>E2C97080-B618-4508-B06D-EFCF27C2C387</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Runner-2025.04.04_18-25-47-+0900.xcresult</string>
+			<string>Run-Runner-2025.04.07_11-35-38-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -40,11 +40,11 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -59,135 +59,13 @@
 			<key>signature</key>
 			<string>Run Runner</string>
 			<key>timeStartedRecording</key>
-			<real>765451547.67446196</real>
+			<real>765686138.56910801</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Runner</string>
 			<key>uniqueIdentifier</key>
-			<string>6F50E6EC-9DFC-4707-BA2A-B50D8956A8EA</string>
-		</dict>
-		<key>BB8494EC-682A-4559-9E27-68EF6CC66ACC</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>6EBB224F-09BB-47C9-B6A4-117784CC72DA</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Runner-2025.04.04_18-24-53-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Runner project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Runner</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Runner</string>
-			<key>timeStartedRecording</key>
-			<real>765451493.09294403</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Runner</string>
-			<key>uniqueIdentifier</key>
-			<string>BB8494EC-682A-4559-9E27-68EF6CC66ACC</string>
-		</dict>
-		<key>F91D739F-CDFF-4FD0-86B0-9931EC30D812</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>FE813A5E-3B8A-4336-B01B-EF72C2525309</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Runner-2025.04.04_18-23-23-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Runner project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Runner</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Runner</string>
-			<key>timeStartedRecording</key>
-			<real>765451403.64382398</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Runner</string>
-			<key>uniqueIdentifier</key>
-			<string>F91D739F-CDFF-4FD0-86B0-9931EC30D812</string>
+			<string>6BA6B330-ECA1-4950-AB12-5DFCDD449110</string>
 		</dict>
 	</dict>
 </dict>
