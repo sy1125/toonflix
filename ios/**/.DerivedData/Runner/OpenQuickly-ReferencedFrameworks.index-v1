@@ -3,6 +3,7 @@
 <plist version="1.0">
 <array>
 	<string>url</string>
+	<string>Foundation</string>
 	<string>Flutter</string>
 	<string>UIKit</string>
 	<string>XCTest</string>
